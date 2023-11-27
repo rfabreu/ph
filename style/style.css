@@ -163,3 +163,32 @@ body {
     margin-right: 0;
 }
 /* MENU STYLE END */
+
+/* BUTTONS STYLE */
+.btn {
+    padding: 10px 28px;
+    background: var(--clr-primary);
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+}
+
+.btn:hover {
+    background: #165f56;
+    transition: 0.3s linear;
+}
+
+.btn-2 {
+    font-size: 35px;
+    text-decoration: none;
+    color: #ccc;
+    transition: 0.3s linear;
+}
+
+.btn-2:hover {
+    color: #29a396;
+}
+/* BUTTONS STYLE END */
