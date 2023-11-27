@@ -192,3 +192,27 @@ body {
     color: #29a396;
 }
 /* BUTTONS STYLE END */
+
+/* HEADER STYLE */
+.text {
+    width: 60%;
+}
+
+.visual {
+    width: 40%;
+}
+
+.visual img {
+    width: 100%;
+}
+
+.header h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.header h1 span {
+    color: var(--clr-primary);
+}
+/* HEADER STYLE END */
+
