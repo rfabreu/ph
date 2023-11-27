@@ -216,3 +216,26 @@ body {
 }
 /* HEADER STYLE END */
 
+.section:nth-child(even) .visual {
+    margin-right: 30px;
+}
+
+/* TRAINER SECTION STYLE */
+#trainer {
+    text-align: center;
+}
+
+.trainer img {
+    border-top-left-radius: 80px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 80px;
+    border-bottom-left-radius: 20px;
+    margin-bottom: 10px;
+    outline: 2px solid #fff;
+    padding: 14px;
+}
+
+.trainer .mb {
+    margin-bottom: 10px;
+}
+/* TRAINER SECTION STYLE END */
